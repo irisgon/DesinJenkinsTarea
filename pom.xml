@@ -13,7 +13,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>tareajenkinsdesinn</mainClass>
+							<mainClass>tareajenkinsdesin.tareajenkinsdesinn</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
