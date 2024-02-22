@@ -13,7 +13,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.maven.main.tareajenkinsdesinn</mainClass>
+							<mainClass>tareajenkinsdesin.tareajenkinsdesinn</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
